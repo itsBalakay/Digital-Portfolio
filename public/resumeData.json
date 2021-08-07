@@ -1,0 +1,125 @@
+{
+  "main": {
+    "name": "Blake Stillwell",
+    "occupation": "Full Stack Developer",
+    "description": "I'm a design-minded full stack engineer focused on building beautiful interface & experiences.",
+    "image": "profilepic.jpeg",
+    "bio": "I'm a passionate front-end developer and enthusiactic programmer, always pumped to creating new projects out there. I have experience developing and designing web application, from simple landing pages to progressive web applications. I strive to create web applications that not only functions efficiently under the hood, but also provides intuitive, pixel-perfect user experiences. I love learning new and better ways to create seamless user experiences with clean, efficient, and scalable code. I consider work an ongoing education, and I'm always looking for opportunities to work with those who are willing to share their knowledge as much as I want to learn. At the end of the day, my primary goal is to create something beautiful with people that bring out best in me.",
+    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "blakestillwell@att.com",
+    "phone": "954-830-1906",
+    "address": {
+      "street": "N/A",
+      "city": "Miami",
+      "state": "Florida",
+      "zip": "33025"
+    },
+    "website": "",
+    "resumedownload": "https://www.canva.com/design/DAEklAleFhE/_7vcc5EqBG58HN006LyH1w/view?utm_content=DAEklAleFhE&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/blake.stillwell.1",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/blakestillwell/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/blakestillwell/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/itsBalakay",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Ironhack - Miami",
+        "degree": "Full Stack Development Course",
+        "graduated": "July 2021",
+        "description": "Graduated with focus on JavaScript, MERN Stack, HTML, CSS"
+      },
+      {
+        "school": "Florida International University",
+        "degree": "Bachelors in General Biology",
+        "graduated": "July 2019",
+        "description": "Graduated with Bachelors degree in General Biology. Cum Laude." 
+      }
+      
+    ],
+    "work": [
+      {
+        "company": "EZ Radio Strap",
+        "title": "Web Designer",
+        "years": "June 2020 - Present",
+        "description": "Designed and built website for EZ Radio Strap"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Football Shirts E-Commerce (React JS)",
+        "category": "E-Commerce",
+        "image": "retroShirts.png",
+        "url": "https://retro-shirts.netlify.app/"
+      },
+      {
+        "title": "Random Movie Selector (React JS)",
+        "category": "",
+        "image": "movieSelector.png",
+        "url": "https://ironflix.netlify.app/"
+      },
+      {
+        "title": "Don't Pop My Bubble",
+        "category": "Game",
+        "image": "dontPop.png",
+        "url": "https://mylliejohnson.github.io/my-bubble-game-js/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Blake is extremely committed and self-motivated. A versatile team partner. Anyone would be lucky to have Blake as a colleague.",
+        "user": "John Kegley"
+      }
+    ]
+  }
+}
