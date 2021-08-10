@@ -23,7 +23,7 @@ const Footer = ({ data }) => {
             <li>
               Made by{" "}
               <a
-                title="PAPA"
+                title="Blake Stillwell"
                 href="https://www.linkedin.com/in/blakestillwell/"
               >
                 Blake Stillwell

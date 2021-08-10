@@ -18,11 +18,6 @@
     "resumedownload": "https://drive.google.com/file/d/1lvvngrpZ4V95C3RSIhUM1smbdcuPZKlL/view?usp=sharing",
     "social": [
       {
-        "name": "youtube",
-        "url": "",
-        "className": "fa fa-youtube"
-      },
-      {
         "name": "facebook",
         "url": "https://www.facebook.com/blake.stillwell.1",
         "className": "fa fa-facebook"
