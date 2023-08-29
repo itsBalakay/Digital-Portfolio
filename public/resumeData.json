@@ -15,7 +15,7 @@
       "zip": "33025"
     },
     "website": "",
-    "resumedownload": "https://drive.google.com/file/d/1lvvngrpZ4V95C3RSIhUM1smbdcuPZKlL/view?usp=sharing",
+    "resumedownload": "https://docs.google.com/document/d/1CvSkgY1_PsdakE7mCxkw9byx--F6Y4XQ9S2cE4K9jqI/edit?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -58,9 +58,15 @@
     ],
     "work": [
       {
+        "company": "Royal Caribbean Group",
+        "title": "Front-End Developer",
+        "years": "October 2021 - Present",
+        "description": "Responsible for developing, testing, and maintaining quality e-commerce experiences for global countries"
+      },
+      {
         "company": "EZ Radio Strap",
         "title": "Web Designer",
-        "years": "June 2020 - Present",
+        "years": "June 2020 - October 2021",
         "description": "Designed and built website for EZ Radio Strap"
       }
     ],
